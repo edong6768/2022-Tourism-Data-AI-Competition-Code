@@ -2,7 +2,7 @@
 Submissions for 2022 Tourism Data AI Competition(https://dacon.io/competitions/official/235978/overview/description) 
 
 ## Task Description
-Classify `cat3` label of datapoint given image and text pair.
+Classify `cat3` label given image and text pair.
 
 ## Data example
 |id|img_path|overview|cat1|cat2|cat3|
